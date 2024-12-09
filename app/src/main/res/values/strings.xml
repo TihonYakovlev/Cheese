@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Cheese</string>
+    <string name="profile_heading">Профиль</string>
+    <string name="profile_personal_data">Персональные данные</string>
+    <string name="profile_saved_addresses">Сохраненные адреса</string>
+    <string name="profile_history">История заказов</string>
+    <string name="profile_my_tickets">Мои билеты</string>
+    <string name="profile_about">О приложении</string>
+    <string name="button_back">Назад</string>
+    <string name="data_heading">Персональные данные</string>
+    <string name="data_year_warning">Дату рождения можно изменить только один раз!</string>
+    <string name="data_second_name">Фамилия</string>
+    <string name="data_name">Имя*</string>
+    <string name="data_patronymic">Отчество</string>
+    <string name="data_phone">Телефон</string>
+    <string name="data_email">Почта</string>
+    <string name="data_date">Дата рождения</string>
+    <string name="profile_exit">Выход</string>
+    <string name="profile_delete_acc">Удалить аккаунт</string>
+    <string name="confirm_button_text_yes">Да</string>
+    <string name="confirm_button_text_no">Нет</string>
+    <string name="profile_delete_dialog_heading">Удалить аккаунт?</string>
+    <string name="profile_delete_dialog_text">Ваши персональные данные будут удалены. Это действие будет невозможно отменить!</string>
+    <string name="profile_exit_dialog_heading">Выйти из аккаунта?</string>
+    <string name="profile_exit_dialog_text">Вы уверены, что хотите выйти из аккаунта?</string>
+    <string name="profile_login">Войти</string>
+
 </resources>
